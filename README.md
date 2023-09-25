@@ -40,7 +40,7 @@ crear un request con método Get y el siguiente endpoint
 
 - Crear una nueva Implementación que herede de ProveedorMiembrosPlanilla y que implemente el método getEmpleados
 - Decorator??
-
+- colas de mensajería?? 
 
 
 
